@@ -1,4 +1,6 @@
 # LovelyBrew website template
 
 ### Programmed and designed by Sara Alkhabbaz
-live demo :
+
+Preview:
+<img src="/images/lovelybrew.gif" width="50%">
