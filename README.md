@@ -2,5 +2,5 @@
 
 ### Programmed and designed by Sara Alkhabbaz
 
-Preview:
+#### Preview:
 <img src="/images/lovelybrew.gif" width="50%">
